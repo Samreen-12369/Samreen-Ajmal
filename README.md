@@ -186,7 +186,13 @@ Predictive analytics system forecasting sales trends using machine learning algo
 - Handled API development, database design, and deployment processes
 
 ---
+**Data Analyst @ Nexus AI Digital** | 2 months
 
+- Analyzed business data and created interactive dashboards
+- Collaborated with teams to deliver data-driven insights
+- Performed statistical analysis and built predictive models
+- Designed databases, automated reporting, developed ETL pipelines
+---
 ## Areas of Interest
 
 Looking for opportunities that combine:
