@@ -172,7 +172,7 @@ Predictive analytics system forecasting sales trends using machine learning algo
 - Feature importance analysis
 - Model performance metrics and validation
 
-**Repository:** [View Project]([https://github.com/Samreen-12369/sales-prediction]
+**Repository:** [View Project](https://github.com/Samreen-12369/sales-prediction)
 
 ---
 
