@@ -27,26 +27,6 @@
 
 ---
 
-## Current Focus
-
-```python
-class SamreenAjmal:
-    def __init__(self):
-        self.role = "Full Stack Developer transitioning to Data Scientist"
-        self.education = "BS Software Engineering @ UOL"
-        self.current_project = "AI-Powered Dental Disease Detection"
-        self.learning = ["Deep Learning", "Computer Vision", "Medical AI"]
-        self.expertise = ["Web Development", "Automation", "API Integration"]
-        
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together!")
-
-me = SamreenAjmal()
-me.say_hi()
-```
-
----
-
 ## Technical Skills
 
 ### Programming Languages
@@ -103,17 +83,6 @@ me.say_hi()
 </div>
 
 ---
-
-## GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Samreen-12369&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## Featured Projects
 
 ### AI-Powered Dental Disease Detection
@@ -123,7 +92,7 @@ Intelligent system detecting tooth decay, gingivitis, and periodontitis from int
 
 **Tech Stack:** Python, TensorFlow, Computer Vision, Medical Imaging, Deep Learning
 
-**Repository:** [View Project][(https://github.com/Samreen-12369/dental-diseases-detection)]
+**Repository:** [View Project](https://github.com/Samreen-12369/dental-diseases-detection)
 
 ---
 
@@ -140,7 +109,7 @@ Business-grade React template with modern design, optimal performance, responsiv
 - Responsive design
 - SEO optimized
 
-**Demo:** [View Live Demo]((https://website-gray-beta-50.vercel.app/))
+**Demo:** [View Live Demo](https://website-gray-beta-50.vercel.app/)
 
 ---
 
