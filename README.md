@@ -73,6 +73,7 @@
 
 </div>
 ---
+
 ## Featured Projects
 
 ### AI-Powered Dental Disease Detection
