@@ -8,9 +8,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge)](https://portfolio-mytl.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samreen-ajmal-967304264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samreenajmal098@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Samreen-12369&color=blueviolet&style=for-the-badge)
-
 </div>
 
 ---
@@ -75,13 +72,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samreen-12369&layout=compact&langs_count=8&theme=radical"/>
 
 </div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samreen-12369&theme=radical)](https://git.io/streak-stats)
-
-</div>
-
 ---
 ## Featured Projects
 
